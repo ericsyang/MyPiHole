@@ -29,6 +29,8 @@ sudo bash basic-install.sh
 
 Need to install docker first
 
+Find [pihole.sh](https://github.com/ericsyang/MyPiHole/blob/master/pihole.sh)
+
 ```bash
 sudo vim pihole.sh
 ```
